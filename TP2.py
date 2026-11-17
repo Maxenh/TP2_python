@@ -231,3 +231,4 @@ class Window(QWidget):
 
 window = Window()
 window.show()
+# correction
